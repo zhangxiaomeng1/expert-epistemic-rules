@@ -46,6 +46,11 @@ Originally extracted from the `<expert-epistemic-rules>` block in a local Codex 
 
 ## Installation / 安装与接入
 
+> **📖 Full step-by-step guide for Codey, Gemini Code Assist, 豆包, Codex, Claude Code, and universal method → [INSTALL.md](INSTALL.md)**
+> **📖 包含 Codey、Gemini Code Assist、豆包、Codex、Claude Code 及通用方法的完整分步指南 → [INSTALL.md](INSTALL.md)**
+
+### Quick Install / 快速安装
+
 ### Option 1: Codex (OpenAI) / Codex 智能体
 
 ```bash
